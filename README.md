@@ -2,10 +2,15 @@
 
 A sleek, Mac-like top menu bar for Windows built with **WPF** and **C# .NET 8**. It replaces the traditional taskbar feel with a modern, translucent "liquid glass" aesthetic that dynamically adapts to your desktop wallpaper.
 Uses **~5–15MB RAM**
-<br><br>
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d5fec313-01d5-4b84-89e8-2c4fa6e51454" /> <br><br>
-<img width="1916" height="1074" alt="image" src="https://github.com/user-attachments/assets/acd81e1a-7aac-4517-8daa-e6706f5676fc" />
+<p align="center">
+  <img width="1919" height="1079" alt="image"
+       src="https://github.com/user-attachments/assets/d5fec313-01d5-4b84-89e8-2c4fa6e51454" />
+</p>
 
+<p align="center">
+  <img width="1916" height="1074" alt="image"
+       src="https://github.com/user-attachments/assets/acd81e1a-7aac-4517-8daa-e6706f5676fc" />
+</p>
 
 ## ✨ Features
 
@@ -20,7 +25,7 @@ Uses **~5–15MB RAM**
 * **Auto-Start Support:** Built-in settings menu to toggle "Launch at Windows startup" via the Registry.
 
 ## How to Use?
-To run this your system should have .NET 8.0 Desktop Runtime . Install it from [here]([https://example.com](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.26-windows-x64-installer)) <br><br>
+To run this your system should have .NET 8.0 Desktop Runtime . Install it from [here](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.26-windows-x64-installer) <br><br>
 For people who only want to use the Software can Clone the project, keep only the "Windows Top Bar" folder and delete everything else.
 Go to **Windows Top Bar\x64\Release\net8.0-windows** find the WindowsBar.exe file of 149KB, run it and Voila!  
 
@@ -50,7 +55,7 @@ Go to **Windows Top Bar\x64\Release\net8.0-windows** find the WindowsBar.exe fil
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dipanjandeb/windows_bar_liquid_glass.git](https://github.com/dipanjandeb/windows_bar_liquid_glass.git)
+   git clone https://github.com/dipanjandeb/windows_bar_liquid_glass.git
 
 ## Build & Run
 
