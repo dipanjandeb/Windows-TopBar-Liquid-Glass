@@ -3,14 +3,13 @@
 A sleek, Mac-like top menu bar for Windows built with **WPF** and **C# .NET 8**. It replaces the traditional taskbar feel with a modern, translucent "liquid glass" aesthetic that dynamically adapts to your desktop wallpaper.
 Uses **~5–15MB RAM**
 <p align="center">
-  <img width="1919" height="1079" alt="image"
-       src="https://github.com/user-attachments/assets/d5fec313-01d5-4b84-89e8-2c4fa6e51454" />
-</p>
 
-<p align="center">
-  <img width="1916" height="1074" alt="image"
-       src="https://github.com/user-attachments/assets/acd81e1a-7aac-4517-8daa-e6706f5676fc" />
+  <img width="1920" height="1080" alt="image" 
+    src="https://github.com/user-attachments/assets/350a4566-1870-49e1-a9fc-d715dee58358" />
 </p>
+<p align="center">
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8801fc9e-7782-427e-9350-44a1d8d67597" />
+</p>p>
 
 ## ✨ Features
 
@@ -56,6 +55,7 @@ Go to **Windows Top Bar\x64\Release\net8.0-windows** find the WindowsBar.exe fil
 1. Clone the repository:
    ```bash
    git clone https://github.com/dipanjandeb/windows_bar_liquid_glass.git
+   ```
 
 ## Build & Run
 
