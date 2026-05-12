@@ -20,6 +20,7 @@ Uses **~5–15MB RAM**
 * **Auto-Start Support:** Built-in settings menu to toggle "Launch at Windows startup" via the Registry.
 
 ## How to Use?
+To run this your system should have .NET 8.0 Desktop Runtime . Install it from [here]([https://example.com](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.26-windows-x64-installer)) <br><br>
 For people who only want to use the Software can Clone the project, keep only the "Windows Top Bar" folder and delete everything else.
 Go to **Windows Top Bar\x64\Release\net8.0-windows** find the WindowsBar.exe file of 149KB, run it and Voila!  
 
